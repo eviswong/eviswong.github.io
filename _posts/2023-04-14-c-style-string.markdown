@@ -9,5 +9,5 @@ categories: jekyll update
 
 
 比如我最近开发的性能监控软件，它的结构如下。
-![structure](assets/c-style-string-with-ref-counting/structure.png)
+![structure](/assets/c-style-string-with-ref-counting/structure.png)
 
