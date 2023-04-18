@@ -12,7 +12,7 @@ categories: jekyll update
 * Adobe Photoshop CS 6
 
 ## 前期准备
-关于制作模组前的前期准备，你可以看[这篇文章]()。
+关于制作模组前的前期准备，你可以看[这篇文章](https://eviswong.github.io/jekyll/update/2023/01/05/provider-product-setup.html)。
 [敬请期待]
 
 
