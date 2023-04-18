@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TSC静态景物制作教程"
-date:   2023-04-18 18:05:17 +0800
+date:   2023-04-18 14:05:17 +0800
 categories: jekyll update
 ---
 # TSC 静态景物制作教程
