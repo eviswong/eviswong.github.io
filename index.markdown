@@ -4,3 +4,4 @@
 
 layout: default
 ---
+## [TSC线性景物创建教程](https://eviswong.github.io/jekyll/update/2023/04/17/TSC-procedual-lofted-geomrtry-tutorial.html)
