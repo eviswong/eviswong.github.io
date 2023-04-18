@@ -3,8 +3,9 @@ layout: post
 title:  "TSC线性景物制作教程"
 date:   2023-04-17 16:41:17 +0800
 categories: jekyll update
+author: Evis Wong
 ---
-# Train Simulator Classic 线性景物制作教程
+
 
 ## 我的环境
 * 游戏版本： Train Simulator Classic
