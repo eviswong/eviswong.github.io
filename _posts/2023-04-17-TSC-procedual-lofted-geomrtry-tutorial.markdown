@@ -102,4 +102,6 @@ Train Simulator 生成线性景物的方法非常简单，就是对**X-Z平面**
 
 在 **Blueprint Editor** 中新建一个 *Loft Section Blueprint*。在目前阶段，你只需要填如下两项即可。填写完毕后，点**Preview**可以预览你的线性景物。
 
-![UV不平铺](https://eviswong.github.io/assets/procedual-lofted-scenery-tutorial/blueprint_1.png)
+![Blueprint设置](https://eviswong.github.io/assets/procedual-lofted-scenery-tutorial/blueprint_1.png)
+
+## 增加细节
