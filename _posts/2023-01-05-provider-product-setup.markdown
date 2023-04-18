@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "TSC插件开发前期准备"
 date:   2023-01-05 18:05:17 +0800
 categories: jekyll update
