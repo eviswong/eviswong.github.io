@@ -56,13 +56,13 @@ Train Simulator 生成线性景物的方法非常简单，就是对**X-Z平面**
 
 >很多教程都提到线性模型的UV要“沿Y轴展开”，但我表示困惑。因为UV数据是不存在XYZ轴的，UV只有U轴和V轴。
 
-如果你让X方向边所对应的UV，与U轴平行，会导致纹理错乱。
+如果你让Y方向边所对应的UV，与U轴平行，会导致纹理错乱。
 
 ![UV错乱](https://eviswong.github.io/assets/procedual-lofted-scenery-tutorial/wrong_uv.png)
 
 至于是否需要让UV平铺整个空间，我认为并不是那么重要，但可能会导致模型上的纹理存在接缝。
 
-![UV不平铺](https://eviswong.github.io/assets/procedual-lofted-scenery-tutorial/wrong_uv.png)
+![UV不平铺](https://eviswong.github.io/assets/procedual-lofted-scenery-tutorial/scaled_uv.png)
 
 ## 材质
 
@@ -76,9 +76,9 @@ Train Simulator 生成线性景物的方法非常简单，就是对**X-Z平面**
 
 如果你的纹理格式为**.tga**，请将它转换为**.ace**。
 
-> 如果你使用**.dds**格式，不需要转换为**.ace**
+> 如果你使用**.dds**格式的纹理，不需要转换为**.ace**
 
-> 纹理格式转换有个小技巧， 你只要把要转换格式的纹理拖到 *RwAceTools.exe*图标上，就可以得到**.ace**格式的纹理了。
+> 纹理格式转换有个小技巧， 你只要把要转换格式的纹理拖到 *RwAceTool.exe*图标上，就可以得到**.ace**格式的纹理了。
 
 ## 导出
 
