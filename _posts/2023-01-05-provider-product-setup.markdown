@@ -24,13 +24,15 @@ Source *
 
 除了 *Scenery* 文件夹，你还可以创建别的。 如果你要制作音效，可以创建一个 *Audio* 文件夹。 当然，这些文件夹都是 TS 固定的。
 
-![文件目录](https://sites.google.com/a/railsimdev.com/dtgts1sdk/reference-manual/content-basics/provider-product-setup/add-on-folder-structure/fig001.PNG?attredirects=0)
+![文件目录](https://eviswong.github.io/assets/procedual-lofted-scenery-tutorial/preview.jpg)
 
 当你想使用自己的插件时，可以在下拉列表里找到对应的 *Provider Name*，并勾选 *Provider Name*，就可以看到想要的插件。
 
-![active object set](https://sites.google.com/a/railsimdev.com/dtgts1sdk/reference-manual/content-basics/provider-product-setup/using-provider-product-assets-in-train-simulator/UsingProviderProduct1.jpg?attredirects=0)
+![active object set](https://eviswong.github.io/assets/procedual-lofted-scenery-tutorial/preview.jpg)
 
-![active object set](https://sites.google.com/a/railsimdev.com/dtgts1sdk/reference-manual/content-basics/provider-product-setup/using-provider-product-assets-in-train-simulator/UsingProviderProduct2.jpg?attredirects=0)
+
 
 ## 配置 3DsMax
-[敬请期待]
+### TS Shader
+
+在 *游戏根目录 / dev / Shaders / * 下，有一些以 *.fx* 结尾的文件。这些文件就是 **Shader** （着色器）。 它们就是不同的画笔，让插件在游戏中呈现不同的效果。
